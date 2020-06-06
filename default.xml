@@ -510,6 +510,6 @@
   <!-- HomTom HT16 device and vendor specific Projects -->
 
   <project path="vendor/Homtom/HT16" name="AndroidDevelopersTeam/android_vendor_Homtom_HT16" groups="homtom" />
-  <project path="device/Homtom/HT16" name="AndroidDevelopersTeam/android_device_Homtom_HT16" groups="homtom" />
+  <project path="device/Homtom/HT16" name="ariaci/android_device_Homtom_HT16" groups="homtom" />
     
 </manifest>
